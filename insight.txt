@@ -1,0 +1,9 @@
+Power BI
+
+Insight
+
+1, Data Scientest are making most, and they're making average salary of atleast 93000 from the survey.
+2. Most survey takers prefer Python as their favorite programming language
+3. it shows the average salary of men and women of each job title
+4.it shows the average of happiness with worklife balance and salary
+5.it shows the average salary in each job per industry. 
